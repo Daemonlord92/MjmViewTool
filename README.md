@@ -19,9 +19,9 @@ Or install it yourself as:
     $ gem install mjm_view_tool
 
 ## Usage
-'''ruby
+```ruby
 MjmViewTool::Renderer.copyright ' Matthew J Martin', 'All Rights Reserved'
-'''
+```
 
 ## Development
 
